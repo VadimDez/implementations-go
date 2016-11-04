@@ -1,1 +1,3 @@
 # implementations-go
+
+* Merge sort
