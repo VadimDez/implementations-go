@@ -3,6 +3,7 @@
 * [Merge sort](https://github.com/VadimDez/implementations-go/blob/master/merge-sort/merge-sort.go)
 * [Vector](https://github.com/VadimDez/implementations-go/blob/master/queue/queue.go)
 * [Queue (with fix-sized array)](https://github.com/VadimDez/implementations-go/blob/master/vector/vector.go)
+* [Hash table](https://github.com/VadimDez/implementations-go/blob/master/hash-table/hashTable.go)
 
 ## License
 
